@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "studio", "runtimeExecutable": "node", "runtimeArgs": ["server/main.ts"], "port": 8787 }
+  ]
+}
